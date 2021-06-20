@@ -129,3 +129,10 @@ https://cloud.google.com/solutions/using-a-nat-gateway-with-kubernetes-engine
 Anything and everything in this repository is under the MIT license. No promises it works, no guarantees none of your secrets get leaked, no warranty of any kind, you use it at your own risk, yadi yadi yada.
 
 If you're going to use it, you should probably make sure you understand how it works and agree with the configuration instead of blindly using some VPN setup you found on the internet.
+
+
+# Financial support
+
+This project has been made possible thanks to [Cocreators](https://cocreators.ee) and [Lietu](https://lietu.net). You can help us continue our open source work by supporting us on [Buy me a coffee](https://www.buymeacoffee.com/cocreators).
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cocreators)
